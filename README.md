@@ -12,9 +12,9 @@ If user is authenticated, we proceed to home page, otherwise show the sign in pa
 
 **Note**: Only user that has valid in databse is:
 
-Username: `arefhosseini@yahoo.com`
+Username: `sample@gmail.com`
 
-Password: `EFXRrR*Dapbha3$`
+Password: `HX2#k6^uZtHhJ7z`
 
 ### Fetch movie
 we have a search bar in top of the page with **Search here** message. 
