@@ -19,6 +19,8 @@ If user scroll down and reach to bottom page, fetch other movie list (we call **
 
 If server get error or something has wrong, show the propper message.
 
+**Note**: The search text should has `s` key & page number of items has `page` key in query of fetch movie API.
+
 ### Movie item
 The movie items component should contain poster, name & year like the above:
 
