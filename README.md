@@ -52,4 +52,4 @@ Access token has 24h expiration time, and if it uses to user info API, it gets e
 so we should sign out user automatically after 24h and redirect him to Sign in page.
 
 ## APIs
-You can access APIs in a **Postman collection** by [this link](http://google.com)
+You can access APIs in a **Postman collection** by [this link](https://www.getpostman.com/collections/8dfca0d74cb2bfd59253)
