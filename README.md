@@ -32,6 +32,8 @@ In this page, show authentication info such as access token, name, nickname & su
 
 There is no need to show them as UI component, it's enough to show it as text.
 
+**Note**: Token type is `Bearer` mode, so you should set `Bearer YOUR_ACCESS_TOKEN` to the user info API. 
+
 **Note**: There should be **Sign out** button to back to Sign in page.
 
 ### Sign out expireation
