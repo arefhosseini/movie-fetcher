@@ -8,6 +8,8 @@ First of all user should sign in to the app and get the authorization token & sa
 
 If user is authenticated, we proceed to home page, otherwise show the sign in page.
 
+**Note**: Only `username` & `password` should be change in Sign in API, the others is static.
+
 ### Fetch movie
 we have a search bar in top of the page with **Search here** message. 
 
