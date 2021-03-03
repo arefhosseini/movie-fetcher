@@ -10,6 +10,12 @@ If user is authenticated, we proceed to home page, otherwise show the sign in pa
 
 **Note**: Only `username` & `password` should be change in Sign in API, the others is static.
 
+**Note**: Only user that has valid in databse is:
+
+Username: `arefhosseini@yahoo.com`
+
+Password: `EFXRrR*Dapbha3$`
+
 ### Fetch movie
 we have a search bar in top of the page with **Search here** message. 
 
