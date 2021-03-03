@@ -1,4 +1,4 @@
-# movie-fetcher
+# Movie Fetcher
 Simple movie fetcher app via flutter.
 
 ## Features
