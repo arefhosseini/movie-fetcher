@@ -20,7 +20,7 @@ If server get error or something has wrong, show the propper message.
 ### Movie item
 The movie items component should contain poster, name & year like the above:
 
-![Movie Item](https://user-images.githubusercontent.com/11308483/109769634-ba7c6400-7c0f-11eb-80ec-001107719148.png)
+![Movie Item](https://user-images.githubusercontent.com/11308483/109770067-527a4d80-7c10-11eb-9202-51dcaebdfd65.png)
 
 
 **Note**: The movie API key is static and no need to change.
